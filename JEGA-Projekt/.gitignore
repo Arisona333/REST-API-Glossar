@@ -1,0 +1,14 @@
+<<<<<<< HEAD
+=======
+# Python virtual environment
+>>>>>>> origin/main
+venv/
+__pycache__/
+*.pyc
+*.db
+<<<<<<< HEAD
+*.sqlite3
+
+=======
+*.sqlite3
+>>>>>>> origin/main
